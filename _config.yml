@@ -1,8 +1,8 @@
 # Site settings
-title: Your Blog
-SEOTitle: 你的博客 | Your Blog
+title: ZYone
+SEOTitle: 查勇的博客 | ZYone Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: zhayong@yeah.net
 description: ""
 keyword: ""
 url: "http://wwww.zhayong.net"              # your host, for absolute URL
@@ -12,9 +12,9 @@ baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+#weibo_username:     huxpro
+#zhihu_username:     huxpro
+github_username:    zhayong
 #twitter_username:  huxpro
 #facebook_username:  huxpro
 
@@ -59,10 +59,10 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+#ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
 # Google Analytics
-ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+#ga_domain: zhayong.net
 
 
 
@@ -82,8 +82,8 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 # Friends
 friends: [
     {
-        title: "Hux Blog",
-        href: "http://huangxuan.me"
+        title: "ZYone Blog",
+        href: "http://www.zhayong.net"
     },{
         title: "Foo",
         href: "#"
@@ -99,4 +99,4 @@ friends: [
     }
 ]
 
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
