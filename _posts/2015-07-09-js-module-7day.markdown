@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "Example Post using Keynote Layout"
 subtitle:   "Keynote: JavaScript Modularization Journey"
-iframe:     "http://zhayong.net/js-huangshan-3day/"
+iframe:     "http://www.zhayong.net/js-huangshan-3day/"
 date:       2015-07-09
 author:     "Hux"
 header-img: "img/post-bg-js-version.jpg"
