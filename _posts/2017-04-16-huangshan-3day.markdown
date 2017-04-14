@@ -1,14 +1,13 @@
 ---
 layout:     keynote
-title:      "Example Post using Keynote Layout"
-subtitle:   "Keynote: JavaScript Modularization Journey"
+title:      "黄山三日游"
+subtitle:   "Hello,HuangShan! We are together!"
 iframe:     "http://www.zhayong.net/js-huangshan-3day/"
-date:       2015-07-09
-author:     "Hux"
+date:       2016-04-16
+author:     "ZYone"
 header-img: "img/post-bg-js-version.jpg"
 tags:
-    - 前端开发
-    - JavaScript
+    - 旅游
 ---
 
 
