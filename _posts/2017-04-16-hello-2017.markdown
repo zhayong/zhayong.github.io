@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Welcome to ZYone Blog"
-subtitle:   " \"Hello, 2017\""
+subtitle:   "Hello, 2017"
 date:       2017-04-16
 author:     "ZYone"
 header-img: "img/post-bg-hello-2017.jpg"
