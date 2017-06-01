@@ -1,4 +1,3 @@
-
 ---
 layout:     post
 title:      "股票的精细化运作"
