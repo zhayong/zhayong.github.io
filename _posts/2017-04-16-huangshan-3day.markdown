@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "黄山三日游"
 subtitle:   "Hello,HuangShan!"
-iframe:     "http://www.zhayong.net/js-huangshan-3day/"
+iframe:     "http://www.zyone.tech/js-huangshan-3day/"
 date:       2017-04-16
 author:     "ZYone"
 header-img: "img/post-bg-js-version.jpg"
@@ -18,7 +18,7 @@ tags:
 未完待续...
 
 
-### [Watch Slides →](http://www.zhayong.net/js-huangshan-3day/)
+### [Watch Slides →](http://www.zyone.tech/js-huangshan-3day/)
 
 <img src="http://www.zhayong.net/js-huangshan-3day/material-images/QRCode-huangshan-3day.png" width="350" height="350"/>
 
