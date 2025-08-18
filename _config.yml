@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "ZYone Blog",
-        href: "https://www.zhayong.top"
+        href: "http://www.zhayong.top"
     },{
         title: "Foo",
         href: "#"

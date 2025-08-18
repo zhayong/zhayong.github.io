@@ -2,7 +2,7 @@
 layout:     keynote
 title:      "水族馆一日游"
 subtitle:   "Hello,SH!"
-iframe:     "https://www.zhayong.top/js-sh/"
+iframe:     "http://www.zhayong.top/js-sh/"
 date:       2018-08-18
 author:     "ZYone"
 header-img: "img/post-bg-js-version.jpg"
