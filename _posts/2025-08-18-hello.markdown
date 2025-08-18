@@ -1,0 +1,19 @@
+---
+layout:     keynote
+title:      "Hello 2025"
+subtitle:   "工作十周年"
+iframe:     "https://www.zhayong.top/js-sh/"
+date:       2025-08-18
+author:     "ZYone"
+header-img: "img/post-bg-js-version.jpg"
+tags:
+    - 工作
+---
+
+
+> 下滑这里查看更多内容
+
+工作十周年
+
+未完待续...
+
