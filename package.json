@@ -2,7 +2,7 @@
     "name": "Zone-blog",
     "title": "Zone Blog",
     "version": "1.0.0",
-    "homepage": "http://zhayong.github.io",
+    "homepage": "https://zhayong.github.io",
     "author": "Zone",
     "devDependencies": {
         "grunt": "~0.4.5",
